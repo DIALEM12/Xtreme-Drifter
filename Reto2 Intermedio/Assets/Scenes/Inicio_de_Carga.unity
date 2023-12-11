@@ -159,8 +159,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.00022697, y: -102.74}
-  m_SizeDelta: {x: 874, y: 155.48}
+  m_AnchoredPosition: {x: -0.00022697, y: -63.876}
+  m_SizeDelta: {x: 874, y: 233.21}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!328 &263357120
 VideoPlayer:
@@ -174,7 +174,7 @@ VideoPlayer:
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 8400000, guid: 1e8afc3d51d1a0446864b454c708e605, type: 2}
+  m_TargetTexture: {fileID: 8400000, guid: 1c6c468cb9b6ff3499e91c6c1fc36658, type: 2}
   m_TimeReference: 0
   m_TargetMaterialRenderer: {fileID: 0}
   m_TargetMaterialProperty: <noninit>
@@ -216,7 +216,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 8400000, guid: 1e8afc3d51d1a0446864b454c708e605, type: 2}
+  m_Texture: {fileID: 8400000, guid: 1c6c468cb9b6ff3499e91c6c1fc36658, type: 2}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1157,7 +1157,7 @@ RectTransform:
   m_GameObject: {fileID: 1492283914}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5, y: 5, z: 0}
+  m_LocalScale: {x: 5, y: 6.8125, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2074042972}
@@ -1165,8 +1165,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.5606995, y: -9.8632}
-  m_SizeDelta: {x: 186.06, y: 99.1001}
+  m_AnchoredPosition: {x: -5.5606995, y: -11}
+  m_SizeDelta: {x: 186.06, y: 127.4541}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!328 &1492283916
 VideoPlayer:
@@ -1176,11 +1176,11 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1492283914}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 54ca10035bd26bf468e5bee200a4e855, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: fe28886db1617bb4d84c36f6c7ca22ad, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 8400000, guid: 654a1ced637ca42419df517473bd913e, type: 2}
+  m_TargetTexture: {fileID: 8400000, guid: cf3952f871dd248489b9696555c72ae7, type: 2}
   m_TimeReference: 0
   m_TargetMaterialRenderer: {fileID: 0}
   m_TargetMaterialProperty: <noninit>
@@ -1222,7 +1222,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 8400000, guid: 654a1ced637ca42419df517473bd913e, type: 2}
+  m_Texture: {fileID: 8400000, guid: cf3952f871dd248489b9696555c72ae7, type: 2}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1576,8 +1576,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1492283915}
-  - {fileID: 263357119}
   - {fileID: 1849093235}
+  - {fileID: 263357119}
   - {fileID: 1761431130}
   - {fileID: 739562132}
   - {fileID: 1317069533}
