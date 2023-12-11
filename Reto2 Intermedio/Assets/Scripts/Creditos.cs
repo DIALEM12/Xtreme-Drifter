@@ -16,12 +16,12 @@ public class Creditos : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Escape))
         {
-            SceneManager.LoadScene("Inicio2");
+            SceneManager.LoadScene("Menu_Inicio");
         }
     }
     
     public void WakeForEnd()
     {
-        SceneManager.LoadScene("Inicio2");
+        SceneManager.LoadScene("Menu_Inicio");
     }
 }
